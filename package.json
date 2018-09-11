@@ -1,0 +1,26 @@
+{
+  "name": "mofron-comp-imgfs",
+  "version": "0.0.1",
+  "description": "file selector component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-imgfs.git"
+  },
+  "dependencies": {
+    "mofron-comp-filesel" : "",
+    "mofron-effect-hrzpos" : ""
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-imgfs/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-imgfs#readme"
+}
